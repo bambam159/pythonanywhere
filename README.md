@@ -1,3 +1,3 @@
 # pythonanywhere
 
-django ewb http://bbbwp.pythonanywhere.com/
+django web http://bbbwp.pythonanywhere.com/
